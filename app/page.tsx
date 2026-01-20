@@ -11,6 +11,6 @@ export default function Home() {
       .catch(err => console.error('API ERROR:', err))
   }, [])
 
-  return <h1>Frontend läuft</h1>
+  return <h1>Frontend läuft test, ob git actions funktionieren</h1>
 }
 
